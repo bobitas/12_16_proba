@@ -2,3 +2,6 @@ kerékpár
 bicikli
 alma
 korte
+sargabarack
+gorogdinnye
+
